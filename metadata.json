@@ -1,0 +1,6 @@
+{
+  "name": "MO ميوزك - مشغل النغم والاستوديو الاحترافي",
+  "description": "تطبيق موسيقي متكامل واحترافي لتشغيل الأغاني وتحديد وتقسيم الفصول باليد، عرض الكلمات المزامنة، معادل صوتي استوديو وواجهة زجاجية تدعم جميع الشاشات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
